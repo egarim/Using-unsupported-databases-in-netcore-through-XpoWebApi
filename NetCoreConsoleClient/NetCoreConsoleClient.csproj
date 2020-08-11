@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="BIT.Xpo.Providers.WebApi.Client" Version="20.1.6.583217088" />
+		<PackageReference Include="Bogus" Version="30.0.2" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\XpoDemoOrm\XpoDemoOrm.csproj" />
+	</ItemGroup>
+</Project>
