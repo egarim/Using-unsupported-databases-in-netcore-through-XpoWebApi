@@ -21,10 +21,11 @@ namespace ConsoleClient
 
             var XpoWebApiAspNetCore = XpoWebApiProvider.GetConnectionString("https://localhost:44389", "/XpoWebApi", string.Empty, "001");
 
-            var XpoWebApiAspNet = XpoWebApiProvider.GetConnectionString("https://localhost:44359", "/api/XpoWebApi", string.Empty, "001");
+            var XpoWebApiAspNet = XpoWebApiProvider.GetConnectionString("https://localhost:44359", "/api/XpoWebApi", string.Empty, "010");
             
             
             XpoInitializer xpoInitializer = new XpoInitializer(XpoWebApiAspNet, typeof(Invoice), typeof(Customer));
+
             //XpoInitializer xpoInitializer = new XpoInitializer(XpoWebApiAspNetCore, typeof(Invoice), typeof(Customer));
             
             
