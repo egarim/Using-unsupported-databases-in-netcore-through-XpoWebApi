@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BIT.Xpo.Providers.WebApi.AspNetCore" Version="20.1.6.583463586" />
+    <PackageReference Include="BIT.Xpo.Providers.WebApi.AspNetCore" Version="20.1.6.583631780" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>

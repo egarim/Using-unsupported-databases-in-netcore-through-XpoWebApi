@@ -46,14 +46,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BIT.Data.v20.1.6.583601332, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\BIT.Data.20.1.6.583601332\lib\netstandard2.0\BIT.Data.v20.1.6.583601332.dll</HintPath>
+    <Reference Include="BIT.Data.v20.1.6.583631780, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BIT.Data.20.1.6.583631780\lib\netstandard2.0\BIT.Data.v20.1.6.583631780.dll</HintPath>
     </Reference>
-    <Reference Include="BIT.Xpo.Providers.WebApi.AspNet.v20.1.6.583601332, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\BIT.Xpo.Providers.WebApi.AspNet.20.1.6.583601332\lib\net462\BIT.Xpo.Providers.WebApi.AspNet.v20.1.6.583601332.dll</HintPath>
+    <Reference Include="BIT.Xpo.Providers.WebApi.AspNet.v20.1.6.583631780, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BIT.Xpo.Providers.WebApi.AspNet.20.1.6.583631780\lib\net462\BIT.Xpo.Providers.WebApi.AspNet.v20.1.6.583631780.dll</HintPath>
     </Reference>
-    <Reference Include="BIT.Xpo.v20.1.6.583601332, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\BIT.Xpo.20.1.6.583601332\lib\netstandard2.0\BIT.Xpo.v20.1.6.583601332.dll</HintPath>
+    <Reference Include="BIT.Xpo.v20.1.6.583631780, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BIT.Xpo.20.1.6.583631780\lib\netstandard2.0\BIT.Xpo.v20.1.6.583631780.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Data.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\DevExpress.Data.20.1.6\lib\net452\DevExpress.Data.v20.1.dll</HintPath>

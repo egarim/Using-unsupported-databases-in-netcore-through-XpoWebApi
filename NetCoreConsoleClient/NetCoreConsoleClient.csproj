@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="BIT.Xpo.Providers.WebApi.Client" Version="20.1.6.583217088" />
+		<PackageReference Include="BIT.Xpo.Providers.WebApi.Client" Version="20.1.6.583631780" />
 		<PackageReference Include="Bogus" Version="30.0.2" />
 	</ItemGroup>
 	<ItemGroup>

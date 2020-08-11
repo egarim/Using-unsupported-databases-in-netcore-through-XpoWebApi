@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="BIT.Xpo.Providers.WebApi.Client">
-      <Version>20.1.6.583217088</Version>
+      <Version>20.1.6.583631780</Version>
     </PackageReference>
     <PackageReference Include="Bogus">
       <Version>30.0.2</Version>
